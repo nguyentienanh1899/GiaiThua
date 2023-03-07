@@ -118,8 +118,47 @@ namespace SoHoanHao
     }
 }*/
 //Bai So 3: Xoa Chuoi
+/*using System;
+namespace SmallestString
+{
+    class Program
+    {
+        public static int TimViTriXoa(string input)
+        {
+            int n = input.Length;
 
+            for (int i = 0; i < n - 1; i++)
+            {
+                if (input[i] > input[i + 1])
+                {
+                    return i;
+                }
+            }
 
+            return n - 1;
+        }
+
+        public static string LayRaChuoiBeNhat(string input)
+        {
+            int n = input.Length;
+
+            int vitrixoa = TimViTriXoa(input);
+
+            string smallestString = input.Remove(vitrixoa, 1);
+
+            return smallestString;
+        }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Nhap vao chuoi so:");
+            string input = Console.ReadLine();
+
+            string result = LayRaChuoiBeNhat(input);
+
+            Console.WriteLine("Chuoi be nhat la: " + result);
+        }
+    }
+}*/
 //Bai So 4 : Bài Tổng Số Kẹo.
 /*using System;
 
@@ -161,3 +200,4 @@ public class Program
         Console.WriteLine(tongSoKeo);
     }
 }*/
+
