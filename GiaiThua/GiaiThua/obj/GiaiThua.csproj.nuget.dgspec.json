@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tienanh\\Desktop\\Giai Thua\\GiaiThua\\GiaiThua\\GiaiThua\\GiaiThua.csproj": {}
+    "C:\\Users\\tienanh\\Desktop\\TestLogic\\GiaiThua\\GiaiThua\\GiaiThua\\GiaiThua.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tienanh\\Desktop\\Giai Thua\\GiaiThua\\GiaiThua\\GiaiThua\\GiaiThua.csproj": {
+    "C:\\Users\\tienanh\\Desktop\\TestLogic\\GiaiThua\\GiaiThua\\GiaiThua\\GiaiThua.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tienanh\\Desktop\\Giai Thua\\GiaiThua\\GiaiThua\\GiaiThua\\GiaiThua.csproj",
+        "projectUniqueName": "C:\\Users\\tienanh\\Desktop\\TestLogic\\GiaiThua\\GiaiThua\\GiaiThua\\GiaiThua.csproj",
         "projectName": "GiaiThua",
-        "projectPath": "C:\\Users\\tienanh\\Desktop\\Giai Thua\\GiaiThua\\GiaiThua\\GiaiThua\\GiaiThua.csproj",
+        "projectPath": "C:\\Users\\tienanh\\Desktop\\TestLogic\\GiaiThua\\GiaiThua\\GiaiThua\\GiaiThua.csproj",
         "packagesPath": "C:\\Users\\tienanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tienanh\\Desktop\\Giai Thua\\GiaiThua\\GiaiThua\\GiaiThua\\obj\\",
+        "outputPath": "C:\\Users\\tienanh\\Desktop\\TestLogic\\GiaiThua\\GiaiThua\\GiaiThua\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tienanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,7 +46,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.114\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
